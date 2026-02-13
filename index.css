@@ -62,3 +62,11 @@ h1{
         background: rgb(36, 178, 130);
     transform: scale(1.1);
 }
+
+.profile-card img{
+    transition: all .5s ease-in;
+}
+
+.profile-card img:hover{
+    transform: scale(1.1);
+}
